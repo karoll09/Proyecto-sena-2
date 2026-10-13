@@ -1,0 +1,10 @@
+{
+  "description": "Provides a school portal featuring mission, vision, locations, history, academic calendar, and a student portal to access profiles and grades.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
